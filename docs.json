@@ -25,7 +25,21 @@
     },
     "tabs": [
       {
+        "tab": "The Pound",
+        "pages": [
+          {
+            "group": "Verifications",
+            "pages": [
+              "age-verification",
+              "artist-verification"
+            ]
+          },
+          "untitled-page"
+        ]
+      },
+      {
         "tab": "Guides",
+        "hidden": true,
         "groups": [
           {
             "group": "Getting started",
@@ -63,6 +77,7 @@
       },
       {
         "tab": "API reference",
+        "hidden": true,
         "groups": [
           {
             "group": "API documentation",
@@ -79,25 +94,6 @@
               "api-reference/endpoint/webhook"
             ]
           }
-        ]
-      },
-      {
-        "tab": "Testing",
-        "pages": [
-          "testing-page"
-        ]
-      },
-      {
-        "tab": "The Pound",
-        "pages": [
-          {
-            "group": "Verifications",
-            "pages": [
-              "age-verification",
-              "artist-verification"
-            ]
-          },
-          "untitled-page"
         ]
       }
     ]
