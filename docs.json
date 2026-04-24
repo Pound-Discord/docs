@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ec84ed",
+    "light": "#f4b8f5",
+    "dark": "#9e539f"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -89,14 +89,15 @@
       },
       {
         "tab": "The Pound",
-        "groups": [
+        "pages": [
           {
             "group": "Verifications",
             "pages": [
               "age-verification",
               "artist-verification"
             ]
-          }
+          },
+          "untitled-page"
         ]
       }
     ]
@@ -136,5 +137,8 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Open Sans"
   }
 }
