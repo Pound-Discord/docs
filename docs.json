@@ -20,7 +20,12 @@
               "artist-verification"
             ]
           },
-          "Change-Log"
+          {
+            "group": "Change-Logs",
+            "pages": [
+              "May-2026"
+            ]
+          }
         ]
       },
       {
